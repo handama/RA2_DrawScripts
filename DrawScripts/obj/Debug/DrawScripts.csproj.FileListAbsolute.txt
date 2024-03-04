@@ -1,0 +1,8 @@
+C:\Users\hanfangxu\source\repos\DrawScripts\DrawScripts\bin\Debug\DrawScripts.exe
+C:\Users\hanfangxu\source\repos\DrawScripts\DrawScripts\bin\Debug\DrawScripts.pdb
+C:\Users\hanfangxu\source\repos\DrawScripts\DrawScripts\bin\Debug\Rampastring.Tools.dll
+C:\Users\hanfangxu\source\repos\DrawScripts\DrawScripts\obj\Debug\DrawScripts.csproj.AssemblyReference.cache
+C:\Users\hanfangxu\source\repos\DrawScripts\DrawScripts\obj\Debug\DrawScripts.csproj.CoreCompileInputs.cache
+C:\Users\hanfangxu\source\repos\DrawScripts\DrawScripts\obj\Debug\DrawScripts.csproj.CopyComplete
+C:\Users\hanfangxu\source\repos\DrawScripts\DrawScripts\obj\Debug\DrawScripts.exe
+C:\Users\hanfangxu\source\repos\DrawScripts\DrawScripts\obj\Debug\DrawScripts.pdb
